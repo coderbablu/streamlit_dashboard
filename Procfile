@@ -1,0 +1,1 @@
+﻿web: sh setup.sh && streamlit run 1tfund_dashboard.py
