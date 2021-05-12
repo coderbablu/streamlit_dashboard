@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run --server.port $PORT 1tfund_dashboard.py.py
+web: sh setup.sh && streamlit run --server.port $PORT 1tfund_dashboard.py
